@@ -1,1 +1,1 @@
-# rip.io.github
+# rip.github
